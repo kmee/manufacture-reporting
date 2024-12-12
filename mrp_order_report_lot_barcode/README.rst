@@ -1,18 +1,17 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
     :alt: License: AGPL-3
 
-==============================================
-Product Barcode on the Production Order Report
-==============================================
+==========================================
+Lot Barcode on the Production Order Report
+==========================================
 
-This module adds the product code or lot/serial number barcode on the production order report so that manufacturing users can scan barcodes.
+This module adds lot/serial number barcodes on the production order report so that manufacturing users can scan barcodes.
 
 Configuration
 =============
 
 * Check the configuration of your products to make sure:
-  * the barcode field is set
-  * the tracking is configured: No tracking, By Lot Number, By Serial Number
+  * the tracking is configured: By Lot Number, By Serial Number
 * Create a BOM using these products
 
 Usage
@@ -21,9 +20,6 @@ Usage
 * Create a manufacturing order for the BOM created above
 * Print the Production Order
 
-.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
-    :alt: Try me on Runbot
-    :target: https://runbot.odoo-community.org/runbot/131/11.0
 
 Bug Tracker
 ===========
