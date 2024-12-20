@@ -28,6 +28,7 @@ addon | version | maintainers | summary
 [mrp_flattened_bom_xlsx_direct_materials_cost](mrp_flattened_bom_xlsx_direct_materials_cost/) | 16.0.1.0.1 |  | Export Flattened BOM to Excel with direct materials cost
 [mrp_flattened_bom_xlsx_labour_cost](mrp_flattened_bom_xlsx_labour_cost/) | 16.0.1.0.0 |  | Export Flattened BOM to Excel with labour cost
 [mrp_flattened_bom_xlsx_subcontracting_cost](mrp_flattened_bom_xlsx_subcontracting_cost/) | 16.0.1.0.0 |  | Export Flattened BOM to Excel with subcontracting cost
+[mrp_order_report_lot_barcode](mrp_order_report_lot_barcode/) | 16.0.1.0.0 |  | Lot Barcode on the Production Order
 
 [//]: # (end addons)
 
